@@ -8,7 +8,7 @@
     "build": "tsc -b && vite build",
     "lint": "eslint .",
     "preview": "vite preview",
-      "bot": "ts-node src/bot.ts", /
+    "bot": "ts-node src/bot.ts"
   },
   "dependencies": {
     "react": "^18.3.1",
