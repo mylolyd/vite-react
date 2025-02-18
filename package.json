@@ -28,7 +28,7 @@
     "typescript": "^5.5.3",
     "typescript-eslint": "^8.0.1",
     "vite": "^5.4.1",
-     "ts-node": "^10.9.1", // Untuk menjalankan TypeScript langsung
-    "@types/node": "^20.0.0", // Type definitions untuk Node.js
+     "ts-node": "^10.9.1", 
+    "@types/node": "^20.0.0"
   }
 }
